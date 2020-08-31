@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Melvin
 
+## I'm a Husband, Father, Cisco Voice Engineer and Semi-Developer
+
+- 🔭 I’m currently working on setting up my Github
 <!--
-**dougie23fresh/dougie23fresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love tracking Hurricanes
+
+
+[website]: https://tbd.com
+[twitter]: https://twitter.com/dougie23fresh
+[instagram]: https://instagram.com/dougie23fresh
+[linkedin]: https://linkedin.com/in/melvindouglas23
 -->
