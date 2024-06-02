@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Melvin
 
-## I'm a Husband, Father, Cisco Voice Engineer and Semi-Developer
+## I'm a Father, Cisco Voice Engineer and Semi-Developer
 
 - 🔭 I’m currently working on setting up my Github
 <!--
